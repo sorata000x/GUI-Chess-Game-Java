@@ -4,6 +4,10 @@ Author: Sora Chen <br>
 Date: 05/01/2022 <br>
 Class: CS3B
 
+### Preview
+
+![game-preview](preview.png)
+
 ### Description
 
 This program implements a chess game which is playable by two players and includes the
