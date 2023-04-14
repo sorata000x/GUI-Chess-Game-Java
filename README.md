@@ -6,7 +6,7 @@ Class: CS3B
 
 ### Preview
 
-![game-preview](preview.png)
+<image src="chess_demo.gif" width="500"/>
 
 ### Description
 
