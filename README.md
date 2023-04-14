@@ -1,6 +1,6 @@
 ## Final Project: Chess Game
 
-Author: Sora Chen <br>
+Author: Aiden Chen <br>
 Date: 05/01/2022 <br>
 Class: CS3B
 
