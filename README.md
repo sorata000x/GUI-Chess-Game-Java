@@ -1,4 +1,4 @@
-## Final Project: Chess Game
+## Chess Game: Java Swing
 
 Author: Aiden Chen <br>
 Date: 05/01/2022 <br>
